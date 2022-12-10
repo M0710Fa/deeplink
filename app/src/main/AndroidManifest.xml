@@ -35,7 +35,7 @@
                     android:host="deeplink"/>
                 <data
                     android:scheme="https"
-                    android:host="www.exampledeeplink.com"/>
+                    android:host="next-blog-m0710fa.vercel.app"/>
             </intent-filter>
         </activity>
     </application>
